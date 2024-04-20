@@ -1,6 +1,14 @@
-# Hybrid-LLM-ACT-R
-We observed significant behavior disparities between Chat GPT 3.5 and humans while prompting Chat GPT with problem-solving questions. The problem involved using three sticks (e.g.:14 cm, 200 cm, and 37 cm) to create a target length (e.g.: 112 cm), the Building Sticks Task {Schunn, 2001 #3195}. Only one of the two strategies were allowed: 
-Undershoot: Beginning with a stick shorter than the target length and adding lengths incrementally. 
-Overshoot: Starting with a stick longer than the target length and "sawing off" lengths until reaching the desired size. 
-The optimal theoretical solution given the task and sticks available is the overshoot strategy {Schunn, 2001 #3195}.   
-[ChatGPT 3.5_Discrepancy.pdf](https://github.com/SiyuWu528/Hybrid-LLM-ACT-R/files/14040566/ChatGPT.3.5_Discrepancy.pdf)
+# LLAMA-ACT-R
+This ongoing project aims to develop a novel hybrid architecture called LLAMA-ACT-R designed to address the limitations of Large Language Models (LLMs) in decision-making.
+
+## Project Overview
+LLAMA-ACT-R leveras a well-established neural-symbolic AI system---the ACT-R cognitive architecture. ACT-R is an integrated theory of the mind, realized as a neural-symbolic AI that encompasses perception, memory, goal-setting, and action. It is used to develop synthetic agents for learning and training. LLAMA-ACT-R will use fine-tuned ACT-R models, trained on several tasks, to inform the final embedding layer of an LLM. This process combines human-like decision-making patterns and learning curves with an LLM, enabling the resulting system to make decisions and learn in a way that more closely mimics human behavior.
+
+## Cite
+@inproceedings{wu2024llama,
+  title={LLAMA-ACT-R, a Neuro-Symbolic Architecture (ACT-R) for LLM Decision Making},
+  author={Wu, Siyu and Giles, C. Lee and Ritter, Frank E.},
+  booktitle={Proceedings of the Annual Ethical AI Symposium},
+  year={2024},
+  organization={University of Michigan Institute for Data Science}
+}
