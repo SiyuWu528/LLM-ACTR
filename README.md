@@ -9,7 +9,7 @@ LLAMA-ACT-R leveras a well-established neural-symbolic AI system---the ACT-R cog
 @inproceedings{wu2024llama,
   title={LLAMA-ACT-R, a Neuro-Symbolic Architecture (ACT-R) for LLM Decision Making},
   author={Wu, Siyu and Giles, C. Lee and Ritter, Frank E.},
-  booktitle={Proceedings of the Annual Ethical AI Symposium},
+  booktitle={Poster Presented In Annual Ethical AI Symposium},
   year={2024},
   organization={University of Michigan Institute for Data Science}
 }
