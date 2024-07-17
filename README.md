@@ -13,7 +13,7 @@ The repository is organized into the following main directories:
 
 - **`/model`**: Core model file.
 - **`/raw data`**: output sample from cognitive model.
-- - **`/processed data`**: preprocessed dataset
+- **`/processed data`**: preprocessed dataset
 
 ### Data Science Notebooks
 
