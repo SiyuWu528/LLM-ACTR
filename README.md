@@ -26,7 +26,7 @@ The repository is organized into the following main directories:
 ## Cite
 ```bibtex
 
-@accepted{wu2024vsmactr,
+@forthcoming{wu2024vsmactr,
   title={VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions},
   author={Wu, Siyu and Oltramari, Alessandro and Ritter, Frank E},
   booktitle={17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMs)},
