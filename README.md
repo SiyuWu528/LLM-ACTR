@@ -23,14 +23,16 @@ The repository is organized into the following main directories:
 
 ## Getting Started
 
-### Prerequisites
-
-Before you can run the notebooks and scripts, you'll need to install several dependencies:
-
-```bash
-pip install -r requirements.txt
 ## Cite
 ```bibtex
+
+@inproceedings{wu2024vsmactr,
+  title={VSM-ACT-R: Toward Using Cognitive Architecture For Manufacturing Solutions},
+  author={Wu, Siyu and Oltramari, Alessandro and Ritter, Frank E},
+  booktitle={17th International Conference on Social Computing, Behavioral-Cultural Modeling \& Prediction and Behavior Representation in Modeling and Simulation (SBP-BRIMs)},
+  year={2024},
+  month={June}
+}
 @inproceedings{wu2024llama,
   title={LLAMA-ACT-R, a Neuro-Symbolic Architecture (ACT-R) for LLM Decision Making},
   author={Wu, Siyu and Giles, C. Lee and Ritter, Frank E.},
