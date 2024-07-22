@@ -6,7 +6,7 @@ This ongoing project aims to develop a novel hybrid architecture called LLM-ACTR
 The repository is organized into the following main directories:
 
 - **`/VSM-ACTR`**: This directory hosts all resources related to the VSM-ACTR cognitive model.
-- **`/Data-Science-Notebooks`**: Contains notebooks for finetuning, training, evaluating, and visualizing data and model outputs.
+- **`/Notebooks`**: Contains notebooks for finetuning, training, evaluating, and visualizing data and model outputs.
 - **`/docs`**: Documentation related to the project, including setup, usage, and examples.
 
 ### VSM-ACTR
